@@ -1,0 +1,34 @@
+  EPIC- DIGITAL VILLAGE
+
+
+PRODUCT BACKLOG-  
+
+         STORY  1- ABOUT VILLAGE 
+               SUBTASK- 1 history n about village
+               SUBTASK- 2 Map of the village
+
+ 
+         STORY  2- DEPARTMENT 
+               SUBTASK- 1 GRAMPANCAHAYAT COMMITY
+
+                        2 HEALTH COMMITY
+                        3 SCHOOL COMMITY
+                        4 FOOD N DRUGS COMMITY
+                        5 ANIMAL HUSBUNDRY COMMITY
+                        6 CLEANINMG COMMITY
+                        7
+                  
+         STORY  3-  DOCUMENTS
+               SUBTASK- 1 8A
+                        2 DOMICILE
+                        3 7/12
+         
+
+          STORY 4-   NOTICE
+               SUBTASK- NOTICE
+ 
+
+           STORY 5- DIRECTARYS
+                   DIRECTARY- SARPANCH,GRAMSEVAK,TALATHI,
+    
+
